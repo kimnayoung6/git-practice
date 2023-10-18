@@ -1,0 +1,7 @@
+univerity
+class
+home
+new
+lecture
+git status
+AX
